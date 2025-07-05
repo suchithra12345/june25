@@ -1,7 +1,7 @@
 pull test
 
+local merge test 2
 
 
-
-local merge test
+local merge test 1
 
